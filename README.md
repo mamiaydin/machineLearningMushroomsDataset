@@ -1,4 +1,4 @@
-# machineLearningMushroomsDataset
+# Machine Learning on Mushrooms Dataset
 Mushroom Dataset and train Machine Learning Algorithms on it  
 
 # Aim  
